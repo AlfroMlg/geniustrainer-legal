@@ -1,0 +1,10 @@
+{
+  "force_update": false,
+  "min_version": "1.0.0",
+  "message_en": "A critical update is required. Please update GeniusTrainer: Smart Gym to continue.",
+  "message_es": "Se requiere una actualización crítica. Por favor actualiza GeniusTrainer: Smart Gym para continuar.",
+  "message_de": "Ein kritisches Update ist erforderlich. Bitte aktualisiere GeniusTrainer: Smart Gym, um fortzufahren.",
+  "message_fr": "Une mise à jour critique est requise. Veuillez mettre à jour GeniusTrainer: Smart Gym pour continuer.",
+  "message_it": "È richiesto un aggiornamento critico. Per favore aggiorna GeniusTrainer: Smart Gym per continuare.",
+  "message_ja": "重要なアップデートが必要です。GeniusTrainer: Smart Gymをアップデートしてください。"
+}
